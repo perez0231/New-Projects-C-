@@ -1,0 +1,11 @@
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\bin\Debug\netcoreapp2.1\C#OOP.deps.json
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\bin\Debug\netcoreapp2.1\C#OOP.runtimeconfig.json
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\bin\Debug\netcoreapp2.1\C#OOP.runtimeconfig.dev.json
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\bin\Debug\netcoreapp2.1\C#OOP.dll
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\bin\Debug\netcoreapp2.1\C#OOP.pdb
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.csprojAssemblyReference.cache
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.csproj.CoreCompileInputs.cache
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.AssemblyInfoInputs.cache
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.AssemblyInfo.cs
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.dll
+C:\Users\594129\Desktop\C#Projects\OOP\C#OOP\obj\Debug\netcoreapp2.1\C#OOP.pdb
